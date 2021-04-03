@@ -3,6 +3,8 @@ Um espaço para documentar as principais fontes de conhecimento sobre programaç
 
 ## HTML
 
+O esqueleto
+
 ### Estrutura Básica
 
 ``` HTML
@@ -18,10 +20,32 @@ Um espaço para documentar as principais fontes de conhecimento sobre programaç
 
 ### Links
 
-[Atributos:](https://www.w3schools.com/tags/ref_attributes.asp "W3Schools Atributos")
+[Atributos](https://www.w3schools.com/tags/ref_attributes.asp "W3Schools Atributos")
 
-[Tags:](https://www.w3schools.com/tags/ "W3Schools Tags")
+[Tags](https://www.w3schools.com/tags/ "W3Schools Tags")
 
 ## CSS
 
+A skin
+
+### Estrutura Básica
+
+``` CSS
+p {
+    color: green;
+}
+
+.classe {
+    color: green;
+}
+```
+
+### Links
+
+[Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/ "Flexbox")
+
+**Grid:** procurar referências e estudar melhor
+
 ## JavaScript
+
+Os músculos
