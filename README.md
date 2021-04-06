@@ -15,6 +15,7 @@ O esqueleto
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
+    <script src="script.js"></script>
 </body>
 </html>
 ```
